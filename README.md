@@ -13,8 +13,8 @@ A filter was applied to focus on the data reported in California (CA)
   - Age-adjusted prevalence: The prevalence of the health outcome after adjusting for age
   - Crude prevalence: The unadjusted prevalence of the health outcome
   - Sample Size: The number of people surveyed
-  - HLTHOUT: The health outcome category (CASTHMA for current asthma and DIABETES for diagnosed diabetes)
-  - Measure Name: The full name of the health outcome (Current Asthma or Diabetes)
+  - HLTHOUT: The health outcome category 
+  - Measure Name: The full name of the health outcome
   - POINT: The geographic coordinates of the county
   - County Code: The unique identifier for the county
 
