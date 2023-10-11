@@ -6,6 +6,7 @@ A filter was applied to focus on the data reported in California (CA)
 - the variable "totalpopulation" reports the number of reported individuals counted for the survey in that area
 
 ### Chi-Square Test
+- This chi-square test was done with the "Data_Value" variable and "totalPopulation"
 
 ### T-Test
 
