@@ -1,5 +1,6 @@
 # datasci_5_statistics
 #### Summary of data
+https://drive.google.com/file/d/1tPd1GweFfW2iPZL5ugajsEWFmRNK1o44/view?usp=drive_link
 - This data subset provided reports the health outcomes, preventive services, chronic disease-related health risk behaviors, disabilities and health status.
 A filter was applied to focus on the data reported in California (CA)
 - The variable "data_value" seems to report the % of the population in CA that is affected by asthma or diabetes, etc.
