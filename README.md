@@ -10,6 +10,8 @@ A filter was applied to focus on the data reported in California (CA)
 - This chi-square test was done with the "Data_Value" variable and "totalPopulation"
 - There is a significant association between the data_value and totalPopulation.
 ### T-Test
+- T-Test was done with the "Data_Value" and "totalPopulation" variable
+-From the results, I am concluding that there is no significant difference between these two variables
 
 ### ANOVA
 
