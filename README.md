@@ -14,5 +14,6 @@ A filter was applied to focus on the data reported in California (CA)
 - From the results, I am concluding that there is no significant difference between these two variables
 
 ### ANOVA
+- I was having trouble with defining the variable I wanted to use as the health-related variable
 
 ### Regression Analysis 
